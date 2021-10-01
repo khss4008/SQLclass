@@ -1,1 +1,1 @@
-ORDER BY EMPLOYEE_ID WHERE DESC;
+SELECT * FROM employees WHERE job_id LIKE '%AD___';
