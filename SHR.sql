@@ -1,1 +1,5 @@
-SELECT * FROM employees WHERE job_id LIKE '%AD___';
+DELETE FROM departments
+WHERE department_name = 'sample_Dept';
+
+
+
