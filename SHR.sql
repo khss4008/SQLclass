@@ -1,5 +1,3 @@
-DELETE FROM departments
-WHERE department_name = 'sample_Dept';
 
-
-
+ALTER TABLE product
+MODIFY (factory char(10));
